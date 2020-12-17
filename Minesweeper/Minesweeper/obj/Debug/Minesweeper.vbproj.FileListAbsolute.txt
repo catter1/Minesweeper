@@ -1,0 +1,12 @@
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\bin\Debug\Minesweeper.xml
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.vbprojAssemblyReference.cache
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Resources.resources
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.vbproj.GenerateResource.cache
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.vbproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.xml
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\matth\Desktop\CompProgram\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
